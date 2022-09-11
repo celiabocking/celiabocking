@@ -4,4 +4,5 @@
 - Twitter: @CeliaBocking - feel free to DM me!
 - Linkedin: Celia Bocking
 - I recently received a first class BA degree in anthropology from Goldsmiths, University of London. The skills I have learned from anthropology I anticipate will be applicable to UX and UX-related reserach.
-- Learning to code so that I can feel fulfillment by being intellectually challenged and creative, being a part of societally beneficial technological innovation, and having a career that fits my desired lifestyle.
+- Learning to code so that I can feel fulfillment by being intellectually challenged and creative, being a part of societally beneficial technological innovation, and having a career that fits my desired lifestyle. 
+- Excited to disover more of my specific interestes within the industry as I learn with School of Code.
