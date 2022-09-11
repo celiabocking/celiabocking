@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @celiabocking
+- I am grateful to be a part of the fantastic School of Code where I will be learning full-stack web development including Javascript .
+- I am a total beginner and will be logging my intensive learning journey on here and on social media with #100daysofcode.
+- Twitter: @CeliaBocking - feel free to DM me!
+- Linkedin: Celia Bocking
+- I recently received a first class BA degree in anthropology from Goldsmiths, University of London. The skills I have learned from anthropology I anticipate will be applicable to UX and UX-related reserach.
+- Learning code to so that I can feel fulfillment by being intellectually challenged and creative, being a part of societally beneficial technological innovation, and having a career that fits my desired lifestyle.
